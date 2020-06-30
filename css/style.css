@@ -422,6 +422,7 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
   color: #828282;
 }
+
 .fh5co-heading span {
   display: block;
   margin-bottom: 10px;
@@ -559,6 +560,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .timeline > li.timeline-unverted {
   text-align: right;
 }
+
 @media screen and (max-width: 768px) {
   .timeline > li.timeline-unverted {
     text-align: left;
@@ -591,7 +593,13 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: normal;
   color: #bfbfbf;
 }
-
+.company1 {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: normal;
+  color: #bfbfbf;
+}
 .timeline-body > p,
 .timeline-body > ul {
   margin-bottom: 0;
@@ -654,7 +662,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .progress-wrap h3 .value-right {
   float: right;
 }
-
+/* AD */
 .progress {
   width: 100%;
   float: left;
@@ -1109,7 +1117,7 @@ input[type="text"] {
   box-shadow: none !important;
   outline: none !important;
 }
-
+/* AD */
 .btn-primary {
   background: #6FA8DC;
   color: #fff;
@@ -1288,6 +1296,31 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0;
+}
+.work-body {
+  text-align: left;
+  text-justify: distribute;
+}
+#more1 {
+  display: none;
+}
+#more2 {
+  display: none;
+}
+#more3 {
+  display: none;
+}
+#more4 {
+  display: none;
+}
+#more5 {
+  display: none;
+}
+#more6 {
+  display: none;
+}
+#more7 {
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */
