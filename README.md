@@ -1,2 +1,2 @@
 # alphonse-devasia.github.io
-Alphonse Devasia resume
+Online resume of Alphonse Devasia.
