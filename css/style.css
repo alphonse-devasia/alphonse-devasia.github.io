@@ -1301,6 +1301,9 @@ input[type="text"] {
   text-align: left;
   text-justify: distribute;
 }
+#more0 {
+  display: none;
+}
 #more1 {
   display: none;
 }
