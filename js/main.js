@@ -148,6 +148,21 @@
 
 }());
 
+function myworkbutton0() {
+	var dots = document.getElementById("dots0");
+	var moreText = document.getElementById("more0");
+	var btnText = document.getElementById("myBtn0");
+  
+	if (dots.style.display === "none") {
+	  dots.style.display = "inline";
+	  btnText.innerHTML = "Click here";
+	  moreText.style.display = "none";
+	} else {
+	  dots.style.display = "none";
+	  btnText.innerHTML = "Read less";
+	  moreText.style.display = "inline";
+	}
+  }
 function myworkbutton1() {
 	var dots = document.getElementById("dots1");
 	var moreText = document.getElementById("more1");
